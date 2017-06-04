@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_0baa2c41db88f745381688d0db62d3914cd6c638.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -12,12 +21,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_6973ceb08fedd00613db1ef340c02b971dbdcb5d.jar" />
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_550b634e2f8e619b341b4ed017e375636b4c4750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.2_db388cbb5207fa11c9b01b781621a5636a60f3ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_5e5e0580dee09c92b4765cd38a195d282ef2e128.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,21 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_45bc0952b3a02218c4c0d96dc6df0839de8882a7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_c0b5045cf80f11f07213fb4ad70eb536514b0092.jar" />
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_c6c4daea16bc0f96af7479e7476ea4d5e6e8a6d1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_98f46ae28002292c7c55c1e364eeb0242b84906f.jar" />
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_179ed243a8fe0f121393a11ca291ab83cf541f5a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +90,150 @@
         revision="23.0.1"
         sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
         <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_53ca54a7f6f4724c58e74ca0123f11f11fdbd78e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0d2c6d6e0bc430d371aef6d045e2b2029442adb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8f84b4a88a3d5c570d6b86428d9eedf757b00865.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_643993978731f08f10bf3cd002d59951c9ccc0ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0ac6eeb41f24b7ac49aef8876594ad4e474b29c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_83ac99cee3e3380e973df5a14348eb56af321739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5e053d5af1eb40facbe4e8b7ee3b22f87bccb09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_5b795c92f146bf23e22cfeee82a94f9332d7c77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_ef6d98e7d232c2630bebf6dc5cf77feecb998c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_499aee869a82e12a5daddf19c25b09e0f2837224.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_6973ceb08fedd00613db1ef340c02b971dbdcb5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_45bc0952b3a02218c4c0d96dc6df0839de8882a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_741a22ab2e6ed785d8035fc45523aa8db176dc15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_c0b5045cf80f11f07213fb4ad70eb536514b0092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_98f46ae28002292c7c55c1e364eeb0242b84906f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_ff63288217fd2c39b00137648adf9bcf7f6cbf5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_32702e7f9dfbfda406f32827a43ba7a5a0679b21.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,24 +255,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_8f84b4a88a3d5c570d6b86428d9eedf757b00865.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_0ac6eeb41f24b7ac49aef8876594ad4e474b29c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
         jumboMode="false"
         optimize="true"
@@ -120,21 +264,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/cc/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_83ac99cee3e3380e973df5a14348eb56af321739.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5e053d5af1eb40facbe4e8b7ee3b22f87bccb09b.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_5d356ab1094172ebc7a34af093f4e128c8df0a78.jar" />
     </item>
     <item
         is-multidex="false"
@@ -180,24 +315,6 @@
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2bc89bfe29291324d7c8da31e11af6dd6e92b409.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_ef6d98e7d232c2630bebf6dc5cf77feecb998c6b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/cc/react-native/Dictionary/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_499aee869a82e12a5daddf19c25b09e0f2837224.jar" />
     </item>
 
 </items>

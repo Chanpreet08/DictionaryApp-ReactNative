@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/cc/react-native/DictionaryApp-ReactNative/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/cc/react-native/Dictionary/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/home/cc/react-native/Dictionary/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

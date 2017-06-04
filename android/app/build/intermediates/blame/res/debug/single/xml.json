@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/cc/react-native/DictionaryApp-ReactNative/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/xml/preferences.xml"
+    },
+    {
         "merged": "/home/cc/react-native/Dictionary/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/cc/react-native/Dictionary/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/xml/preferences.xml"
     }
