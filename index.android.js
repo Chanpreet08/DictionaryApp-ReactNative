@@ -9,22 +9,28 @@ import {
   AppRegistry,
   StyleSheet,
   Text,
-  View
+  View,
+  TextInput
 } from 'react-native';
 
 export default class Dictionary extends Component {
+  constructor(props)
+  {
+    super(props);
+    this.state = {input:'',output:''};
+  }
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Type Something in English
         </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.android.js
-        </Text>
-        <Text style={styles.instructions}>
-          Double tap R on your keyboard to reload,{'\n'}
-          Shake or press menu button for dev menu
+        <TextInput value= {this.state.input} onChangeText={(text)=>{this.setState({input:text})}} />
+        <Text>
+          Its German Equivalent is:
+         </Text>
+        <Text>
+          {this.state.output}
         </Text>
       </View>
     );
@@ -33,14 +39,13 @@ export default class Dictionary extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
     backgroundColor: '#F5FCFF',
+    flex: 1,
+    padding: 10
   },
   welcome: {
-    fontSize: 20,
-    textAlign: 'center',
+    fontSize: 16,
+    textAlign: 'left',
     margin: 10,
   },
   instructions: {
